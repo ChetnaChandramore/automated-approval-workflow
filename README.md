@@ -111,3 +111,20 @@ The workflow was tested with both approval outcomes.
 ## Project Status
 
 **Completed**
+
+## Screenshots
+
+### Microsoft Forms
+![Microsoft Forms](screenshots/01-microsoft-forms.png)
+
+### Power Automate Workflow
+![Power Automate Workflow](screenshots/02-power-automate-flow.png)
+
+### Approval Request
+![Approval Request](screenshots/03-approval.png)
+
+### Excel Audit Log
+![Excel Audit Log](screenshots/04-excel-audit-log.png)
+
+### Teams Notification
+![Teams Notification](screenshots/05-teams-notification.png)
